@@ -188,6 +188,24 @@ Based on
 
 ---
 
+```
+10.n8n-ai-recruitment-automation
+│
+├── workflow.json
+├── README.md
+├── LICENSE
+├── .gitignore
+│
+├── assets
+│   ├── workflow.png
+│   └── architecture.png
+│
+├── sample
+│   ├── request.json
+│   └── response.json
+
+```
+
 # Future Improvements
 
 * OCR Resume Support
@@ -223,3 +241,7 @@ Based on
 AI Automation Engineer
 
 Specialized in n8n, AI Agents, LangChain, LangGraph, RAG Systems, Workflow Automation, and Business Process Automation.
+
+---
+
+⭐ If you found this project useful, don't forget to star the repository.
