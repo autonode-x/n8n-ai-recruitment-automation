@@ -1,0 +1,9 @@
+{
+  "candidate_name": "Alex Example",
+  "candidate_email": "candidate@example.com",
+  "position": "Example QA Engineer",
+  "resume_url": "https://drive.google.com/file/d/REPLACE_WITH_TEST_FILE_ID/view",
+  "application_id": "DEMO-APP-2026-001",
+  "job_description": "Example role focused on software quality, test planning, and clear collaboration.",
+  "privacy_notice_acknowledged": true
+}
