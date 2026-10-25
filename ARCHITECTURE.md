@@ -1,6 +1,5 @@
 # AI-Assisted Recruitment Intake — Architecture
 
-![Architecture infographic](assets/architecture.png)
 
 
 **Candidate intake → resume evidence extraction → advisory assessment → authorized human review → interview or rejection workflow.**
